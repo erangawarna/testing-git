@@ -5,4 +5,5 @@ lineFromMaster
 lineFromBranch
 lineFromBranch2
 line4
+line5
 line6
